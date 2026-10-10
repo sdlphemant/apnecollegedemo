@@ -1,3 +1,3 @@
 # apnecollegedemo
-this is my first git repo
+this is my first git reporistory
 Author: Hemant Kumar
